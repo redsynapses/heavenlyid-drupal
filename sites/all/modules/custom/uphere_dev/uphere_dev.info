@@ -1,0 +1,12 @@
+name = uphere dev
+description = Enable this module only on development server (NOT for production).It install development modules
+core = 7.x
+package = Custom Uphere
+version = 7.x-1.0
+project = uphere_dev
+dependencies[] = backup_migrate
+dependencies[] = rules_admin
+dependencies[] = update
+dependencies[] = views_ui
+features[features_api][] = api:2
+project path = sites/all/modules/custom

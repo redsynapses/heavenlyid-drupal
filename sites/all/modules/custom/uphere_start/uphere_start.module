@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the uphere start feature.
+ */
+
+include_once 'uphere_start.features.inc';
