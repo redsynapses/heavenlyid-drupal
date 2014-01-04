@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Hevenly ID feature.
- */
-
-include_once 'hevenly_id.features.inc';
