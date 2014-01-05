@@ -38,7 +38,7 @@ function uphere_app_node_info() {
       'base' => 'node_content',
       'description' => '',
       'has_title' => '1',
-      'title_label' => t('Store name'),
+      'title_label' => t('Title'),
       'help' => '',
     ),
     'vehicle' => array(
